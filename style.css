@@ -1,0 +1,44 @@
+body {
+    background-color:#006400;
+    color:black;
+    font-family: Arial, sans-serif;
+}
+table {
+    width: 1000px;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: #98FB98;
+}
+a:link,  a:visited,  a:hover,  a:active {
+color:#006400
+}
+td{
+    padding: 3px;
+    vertical-align: top;
+}
+#left-colum {
+    width:150px;
+    vertical-align: top;
+    text-align: center;
+}
+#right-colum {
+    text-align: justify;
+}
+h2 {
+    color: #006400;
+}
+hr {
+    width: 50%;
+    margin: 20px auto;
+}
+.imageframe {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+ul {
+    padding-left: 20px;
+}
+img{
+    width: 250px;
+}
